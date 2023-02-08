@@ -102,3 +102,6 @@ links:
 
   - title: Join to update this website.
     url: https://github.com/liu-mengyang/esg-seu-website/blob/main/How-To-Update.md
+
+layout:
+  schedulesPerPage: 5
